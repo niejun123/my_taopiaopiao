@@ -1,0 +1,27 @@
+{
+  "name": "shopapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "n"
+  },
+  "author": "nie",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "exprss": "^0.0.1-security",
+    "mongodb": "^3.5.4",
+    "session": "^0.1.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.4",
+    "querystring": "^0.2.0"
+  }
+}
